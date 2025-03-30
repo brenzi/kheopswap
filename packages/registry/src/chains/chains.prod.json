@@ -98,6 +98,18 @@
 		"blockExplorerUrl": "https://assethub-kusama.subscan.io"
 	},
 	{
+		"id": "nctr-k",
+		"name": "Kusama Encointer",
+		"wsUrl": [
+			"wss://sys.ibp.network/encointer-kusama",
+			"wss://kusama.api.encointer.org"
+		],
+		"relay": "kusama",
+		"paraId": 1001,
+		"logo": "./img/chains/kah.svg",
+		"stableTokenId": "native::nctr-k"
+	},
+	{
 		"id": "westend",
 		"name": "Westend",
 		"wsUrl": [

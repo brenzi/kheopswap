@@ -57,6 +57,7 @@ const useTeleportProvider = () => {
 
 	const relayNativeToken = useNativeToken({ chain: relay });
 	const assetHubNativeToken = useNativeToken({ chain: assetHub });
+	const encointerNativeToken = useNativeToken({ chain: allChains. });
 
 	// TODO para to para & relay to paras other than asset hub
 	const tokens = useMemo(

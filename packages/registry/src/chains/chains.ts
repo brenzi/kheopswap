@@ -21,6 +21,7 @@ import type {
 } from "./types";
 
 export const PARA_ID_ASSET_HUB = 1000;
+export const PARA_ID_ENCOINTER = 1001;
 export const PARA_ID_HYDRATION = 2034;
 
 const DEV_CHAINS = chainsDevJson as Chain[];
